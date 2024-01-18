@@ -69,3 +69,6 @@ D:\dattingweb\DattingApp\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Sec
 D:\dattingweb\DattingApp\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\dattingweb\DattingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
 D:\dattingweb\DattingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dattingweb\DattingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
+D:\dattingweb\DattingApp\API\bin\Debug\net7.0\AutoMapper.dll
+D:\dattingweb\DattingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
