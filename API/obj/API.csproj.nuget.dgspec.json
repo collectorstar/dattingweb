@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dattingweb\\DattingApp\\api\\API.csproj": {}
+    "D:\\dattingweb\\DattingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\dattingweb\\DattingApp\\api\\API.csproj": {
+    "D:\\dattingweb\\DattingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dattingweb\\DattingApp\\api\\API.csproj",
+        "projectUniqueName": "D:\\dattingweb\\DattingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\dattingweb\\DattingApp\\api\\API.csproj",
+        "projectPath": "D:\\dattingweb\\DattingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\dattingweb\\DattingApp\\api\\obj\\",
+        "outputPath": "D:\\dattingweb\\DattingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
