@@ -32,6 +32,11 @@
     border: 0 !important;
     color: #333333;
   }
+
+  .member-tabset > .nav-tabs > li > a {
+    border: 0 !important;
+    color: red;
+  }
   
   .member-tabset > .nav-tabs > li.active > a > i {
     color: #404040;
