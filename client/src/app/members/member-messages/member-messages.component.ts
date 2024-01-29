@@ -28,6 +28,7 @@ export class MemberMessagesComponent implements OnInit {
       .sendMessage(this.username, this.messageContent)
       .subscribe({
         next: (message) => {
+          message.messageSent = new Date(new Date(message.messageSent).toISOString().slice(0,-1));
           this.messages.push(message);
           this.messageForm?.reset();
         },
