@@ -20,9 +20,7 @@ import { ModalModule } from 'ngx-bootstrap/modal';
     ToastrModule.forRoot({
       positionClass: 'toast-bottom-right',
     }),
-    NgxSpinnerModule.forRoot({
-      type: 'line-scale-party',
-    }),
+    NgxSpinnerModule.forRoot(),
     FileUploadModule,
     BsDatepickerModule.forRoot(),
     PaginationModule.forRoot(),
