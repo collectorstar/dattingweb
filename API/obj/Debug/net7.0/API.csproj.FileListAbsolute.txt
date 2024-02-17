@@ -80,3 +80,6 @@ D:\dattingweb\DattingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.Enti
 D:\dattingweb\DattingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 D:\dattingweb\DattingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 D:\dattingweb\DattingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\dattingweb\DattingApp\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+D:\dattingweb\DattingApp\API\bin\Debug\net7.0\Npgsql.dll
+D:\dattingweb\DattingApp\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
